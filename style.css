@@ -1,0 +1,94 @@
+
+.fondomenu {
+    text-align: center;
+    align-content: center;
+    border:3px solid rgb(110, 94, 62);
+    border-radius:15px;
+    background-color:#f7ecc6;
+    padding:9px;
+    margin: auto;
+    word-spacing: 10px;
+    
+}
+
+form {
+    width: 340px;
+    height: 440px;
+    background: #e6e6e6;
+    border-radius: 8px;
+    box-shadow: 0 0 40px -10px #000;
+    margin: calc(50vh - 220px) auto;
+    padding: 20px 30px;
+    max-width: calc(100vw - 40px);
+    box-sizing: border-box;
+    font-family: 'Montserrat',sans-serif;
+    position: relative;
+
+}
+
+.imgprin {
+    image-resolution:auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.textalign {
+    text-align: center;
+}
+
+.background {
+    background: rgb(100,94,62);
+    background: linear-gradient(90deg, rgba(100,94,62,1) 0%, rgba(247,236,198,1) 100%);
+}
+
+footer{
+    background-color:rgb(63, 59, 38);
+    padding: 3rem;
+    color: white;
+}
+
+footer section{
+    float: right;
+}
+
+footer p{
+    margin: 0;
+}
+
+footer a{
+    color: #ffff;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: cornflowerblue;
+}
+
+.preg {
+    text-align: center;
+    margin: 5px 300px;
+    border: 3px solid rgb(100,94,62);
+    border-radius: 10%;
+    background-color: #f7ecc642;
+    
+    
+}
+
+header a:hover{
+    color: cornflowerblue;
+}
+
+header a{
+    color:brown;
+    text-decoration: none;
+    font-size: 150%;
+}
